@@ -4,50 +4,27 @@
 ## Overview
 ------------
 
-* Briefly describe the project and its purpose
+* Listogo is a web application with multi-page that help users to find places to travel
 
-## Features
+## Technologies
 ------------
 
-* List the key features of your project
+* HTML
+* CSS
+* Javascript
 
-## Getting Started
------------------
-
-* Provide instructions on how to get started with your project
-
-## Requirements
+## Guide
 -------------
 
-* List any dependencies or requirements needed to use your project
+* In this project you will find html pages :
+    index.html
+    blog.html
+    cantact.html
+    explore.html
+    review.html
+    how_it_works.html
 
-## Installation
-------------
+and a folder "assets" that contain CSS and Javascript files.
 
-* Provide instructions on how to install your project
 
-## Usage
------
-
-* Provide examples of how to use your project
-
-## Contributing
-------------
-
-* Provide guidelines on how to contribute to your project
-
-## License
--------
-
-* Specify the license under which your project is released
-
-## Authors
--------
-
-* List the authors of your project
-
-## Acknowledgments
---------------
-
-* Acknowledge any third-party libraries or resources used in your project
 -----------------------

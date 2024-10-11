@@ -42,7 +42,7 @@ font-family: 'Roboto', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:14px;
-	color:#a09e9c;
+	color:#000;
     text-transform:initial;
     max-width:1920px;
     margin:0 auto;
@@ -52,7 +52,7 @@ body{
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
-	color: #343a3f;
+	color: #000;
 	font-size:16px;
 	padding:0;
     font-weight: 500;
@@ -60,14 +60,14 @@ a,a:hover,a:active,a:focus {
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	color:#343a3f;
+	color:#000;
     font-size: 18px;
     font-weight: 500;
     text-transform: capitalize;
 }
 p {
 	margin: 0;
-	color:#767f86;
+	color:#000;
 	font-size:14px;
     line-height: 1.8;
     text-transform: initial;
@@ -102,7 +102,7 @@ html,body{height: 100%;}
     text-align: center;
 }
 .section-header h2{
-    color: #505866;
+    color: #000;
     font-size:24px;
     font-weight: 500;
     margin-bottom: 24px;
@@ -136,30 +136,32 @@ html,body{height: 100%;}
     border-right: 0;
     border-left: 1px solid #f6f8fa;
     font-size: 12px;
+    color:#000;
 }
+
 .select-opt select {
     border: none;
     cursor:pointer;
-    color:#a7b0ba;
+    color:#090909;
     font-size: 12px;
     font-weight: 300;
 }
 .select-opt option{
-    color:#a7b0ba;
+    color:#101010;
     text-transform: uppercase;
 }
 .select-opt a span.lnr-magnifier:before {
     font-size: 12px;
-    color: #373939;
+    color: #000;
 }
 .select-opt a span.lnr-magnifier:before {
     font-size: 12px;
-    color: #373939;
+    color: #000;
 }
 /*.select-opt*/
 
 .header-top-right ul li a{
-    color:#a7b0ba;
+    color:#000;
     font-size: 12px;
     font-weight: 300;
 }
@@ -190,7 +192,7 @@ nav.navbar.bootsnav {
 
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
-    color: #859098;
+    color: #000;
     font-size: 14px;
     font-weight: 500;
     text-transform:uppercase;
@@ -424,7 +426,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     height: 35px;
     font-size: 12px;
     background: transparent;
-    color: #767f86;
+    color: #000;
     border: 1px solid #d3d6d9;
     border-radius: 3px;
 }
@@ -525,7 +527,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 
 .explore-rating-price,.explore-rating-price a {
     font-size: 12px;
-    color: #777f85;
+    color: #000;
     text-transform: capitalize;
     font-weight: 400;
     margin: 15px 0 20px;
@@ -573,7 +575,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     width: 12px;
     height: 14px;
     margin-left: 23px;
-    color: #767f86;
+    color: #000;
 }
 .explore-map-icon a svg:hover{color: #f63138;}
 .single-explore-txt.bg-theme-2 .explore-map-icon a svg:hover{color: #00c437;}
